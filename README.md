@@ -1,2 +1,2 @@
 # Cyclones
-This repo contain scripts used during my PhD study. 
+This repo contain various application scripts used during my study. 
