@@ -1,2 +1,2 @@
 # Cyclones
-This repo contain various application/forked scripts used during my study. 
+This repo contain mostly scripts from other researcher's.
